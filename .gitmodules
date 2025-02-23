@@ -1,0 +1,3 @@
+[submodule "Todate-Frontend"]
+	path = Todate-Frontend
+	url = https://github.com/madcamp-wk4/Frontend.git
