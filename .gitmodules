@@ -1,3 +1,6 @@
 [submodule "Todate-Frontend"]
 	path = Todate-Frontend
 	url = https://github.com/madcamp-wk4/Frontend.git
+[submodule "Todate-Backend"]
+	path = Todate-Backend
+	url = https://github.com/madcamp-wk4/Backend.git
